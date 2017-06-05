@@ -31,12 +31,6 @@ switch ($opcion) {
         
 
     break;
-
-    case 'login':
-
-    	loguearse($txt_user,$txt_pass);
-   
-    break;
     
     default:
         # code...
